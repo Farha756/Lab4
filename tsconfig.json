@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target":"Es2020" ,
+    "module": "Es2020",
+    "strict":true,
+    "noEmitOnError":true,
+  },
+  "include":["*.ts"]
+}
